@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-inou&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-inou&show_icons=true&theme=react)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=t-inou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **t-inou/t-inou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
